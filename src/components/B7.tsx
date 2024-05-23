@@ -16,19 +16,19 @@ export default function B7() {
         <div className="w-[200px] h-[40px] text-center leading-[40px] text-white font-medium rounded-[5px] bg-[#d946ef]">
           04
         </div>
-        <div className="w-[200px] h-[40px] text-center leading-[35px] text-white font-medium rounded-[5px] bg-[#d946ef]">
+        <div className="w-[200px] h-[40px] text-center leading-[40px] text-white font-medium rounded-[5px] bg-[#d946ef]">
           05
         </div>
-        <div className="w-[200px] h-[40px] text-center leading-[35px] text-white font-medium rounded-[5px] bg-[#d946ef]">
+        <div className="w-[200px] h-[40px] text-center leading-[40px] text-white font-medium rounded-[5px] bg-[#d946ef]">
           06
         </div>
-        <div className="w-[200px] h-[40px] text-center leading-[35px] text-white font-medium rounded-[5px] bg-[#d946ef]">
+        <div className="w-[200px] h-[40px] text-center leading-[40px] text-white font-medium rounded-[5px] bg-[#d946ef]">
           07
         </div>
-        <div className="w-[200px] h-[40px] text-center leading-[35px] text-white font-medium rounded-[5px] bg-[#d946ef]">
+        <div className="w-[200px] h-[40px] text-center leading-[40px] text-white font-medium rounded-[5px] bg-[#d946ef]">
           08
         </div>
-        <div className="w-[200px] h-[35px] text-center leading-[35px] text-white font-medium rounded-[5px] bg-[#d946ef]">
+        <div className="w-[200px] h-[35px] text-center leading-[40px] text-white font-medium rounded-[5px] bg-[#d946ef]">
           09
         </div>
       </div>
